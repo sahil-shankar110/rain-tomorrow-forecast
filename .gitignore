@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset
+data/weather.csv
+
