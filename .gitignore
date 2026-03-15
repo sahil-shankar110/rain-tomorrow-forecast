@@ -8,9 +8,6 @@
 __pycache__/
 *.pyc
 
-# Models
-models/*.pkl
-
 # Streamlit cache
 .streamlit/
 
