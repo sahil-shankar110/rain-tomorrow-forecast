@@ -8,3 +8,4 @@ dotenv
 joblib
 streamlit
 altair==4.2.2
+imghdr2
