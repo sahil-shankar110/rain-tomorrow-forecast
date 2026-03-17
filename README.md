@@ -20,3 +20,8 @@
 **Try it**: Enter `"Karachi"` → Get live weather + rain prediction!
 
 ## 🏗️ Tech Stack
+**Frontend: Streamlit**
+**ML: scikit-learn (RandomForestClassifier)**
+**Data: pandas, numpy**
+**API: OpenWeatherMap + requests**
+**Deployment: Streamlit Cloud + GitHub Actions**
