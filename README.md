@@ -25,3 +25,12 @@
 - **Data: pandas, numpy**
 - **API: OpenWeatherMap + requests**
 - **Deployment: Streamlit Cloud + GitHub Actions**
+
+## 🚀 Quick Demo
+**Enter city: "Karachi" or "Tando Adam"**
+
+**Click Predict**
+
+**See: Live weather + "☀️ NO RAIN (87.3% confidence)"**
+
+
