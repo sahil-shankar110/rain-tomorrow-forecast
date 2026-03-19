@@ -33,4 +33,8 @@
 
 **See: Live weather + "☀️ NO RAIN (87.3% confidence)"**
 
-
+## Try Out
+git clone https://github.com/sahil-shankar110/rain-tomorrow-forecast.git
+cd rain-tomorrow-forecast
+pip install -r requirements.txt
+streamlit run app.py
